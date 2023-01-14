@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-//burda txtleri cekerim
+
         char[] charArray = {'a', 'b', 'c', 'd', 'e', 'f'};
         int[] charfreq = {5, 9, 12, 13, 16, 45};
         int n = 6;
